@@ -1,0 +1,50 @@
+¿Capital de España?#Madrid
+¿Capital de Italia?#Roma
+¿Capital de Francia?#Paris
+¿Capital de Reino Unido?#Londres
+¿Capital de Belgica?#Bruselas
+¿Capital de Alemania?#Berlín
+¿Capital de Suiza?#Berna
+¿Capital de Portugal?#Lisboa
+¿Capital de China?#Pekín
+¿Capital de Japón?#Tokio
+¿Capital de Rusia?#Moscú
+¿Capital de Australia?#Canberra
+¿Capital de Marruecos?#Rabat
+¿Capital de Argelia?#Argel
+¿Capital de Egipto?#El Cairo
+¿Capital de Brasil?#Brasilia
+¿Capital de Paraguay?#Asunción
+¿Capital de Uruguay?#Montevideo
+¿Capital de México?#Ciudad de México
+¿Capital de Estados Unidos?#Washington D.C
+¿Capital de India?#Nueva Delhi
+¿Capital de Mongolia?#Ulam Bator
+¿Capital de Bielorrusia?#Minsk
+¿Capital de Ucrania?#Kiev
+¿Capital de Turquía?#Ankara
+¿Capital de Siria?#Damasco
+¿Capital de Arabía Saudí?#Ryad
+¿Capital de Angola?#Luanda
+¿Capital de Mozambique?#Maputo
+¿Capital de Kazajistán?#Astaná
+¿Capital de Afganistán?#Kabul
+¿Capital de Corea del Sur?#Seúl
+¿Capital de Corea del Norte?#Pionyang
+¿Capital de Yemen?#Saná
+¿Capital de Omán?#Mascate
+¿Capital de Venezuela?#Caracas
+¿Capital de Colombia?#Bogotá
+¿Capital de Argentina?#Buenos Aires
+¿Capital de Chile?#Santiago
+¿Capital de Vanuatu?#Port Villa
+¿Capital de Fiyi?#Suva
+¿Capital de Canadá?#Ottawa
+¿Capital de Pákistán?#Islamabad
+¿Capital de Myanmar?#Naipyidó
+¿Capital de Finlandia?#Helsinki
+¿Capital de Austria?#Viena
+¿Capital de Bulgaria?#Sofía
+¿Capital de Noruega?#Oslo
+¿Capital de Suecia?#Estocolmo
+¿Capital de Dinamarca?#Copenague
